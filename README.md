@@ -5,7 +5,7 @@ I’m a self-taught developer with a background in psychology. Since 2019 I have
 
 * 👩🏽‍💻 Created several full stack Ruby on Rails web apps, such as [Track My Cruise](http://www.trackmycruise.com) a retrospective marine weather API service for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype
 
-* 🚀 Made games using C# and the Unity platform, including Space Pong, a retro block breaker game 
+* 🚀 Made games using C# and the Unity platform, including [Space Pong](https://rollmopsgames.itch.io/spacepong)Space Pong, a retro block breaker game 
 
 * 🗞 Used Java and the Android Studio SDK to make the Good News Mix app, an app that gives you a break from bad news by only showing you news stories with a positive undertone 
 
