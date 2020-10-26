@@ -11,14 +11,15 @@ I’m a self-taught developer with a background in psychology. Since 2019 I have
 
 I’m based in Zurich, Switzerland. 
 
-EDUCATION
+**EDUCATION**
 
-Le Wagon: Coding Bootcamp, London
+**Le Wagon: Full Stack Web Development Bootcamp, London**
+
 This full time intensive bootcamp included cloning Airbnb and developing an MVP within a team. The course also developed my front-end knowledge, while gaining holistic awareness on full stack development. Skills learnt include: Ruby on Rails, HTML5, CSS/Sass, API, JavaScript, Bootstrap, SQL, PostgreSQL, AJAX, git, Heroku, pair programming, collaborating with others on GitHub.
 
-Udacity: Google Android Basics Nanodegree Programmes
+**Udacity: Google Android Basics Nanodegree Programmes** 
 Learned how to create user interfaces (XML), user input, single-screen and multi-screen apps, networking using JSON and APIs, and generally how to use the Android SDK and structure code within it. 
 
-GameDev.TV: Complete C# Unity Game Developer course
+**GameDev.TV: Complete C# Unity Game Developer course**
 Learned C# as well as how to use the Unity game engine and generally built a solid foundation for game design and game development workflows and tech.  
 
