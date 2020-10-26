@@ -9,7 +9,7 @@ I’m a self-taught developer with a background in psychology. Since 2019 I have
 
 🗞 Used Java and the Android Studio SDK to make the Good News Mix app, an app that gives you a break from bad news by only showing you news stories with a positive undertone 
 
-I’m based in Zurich, Switzerland. 
+I’m based in Zurich, Switzerland ⛰ 🍫
 
 **EDUCATION**
 
