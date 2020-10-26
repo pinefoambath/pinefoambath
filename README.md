@@ -5,7 +5,7 @@ I’m a self-taught developer with a background in psychology. Since 2019 I have
 
 * 👩🏽‍💻 Created several full stack Ruby on Rails web apps, such as [Track My Cruise](http://www.trackmycruise.com) a retrospective marine weather API service for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype
 
-* 🚀  Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro block breaker game, using C# and the Unity game development platform. 
+* 🚀  Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro block breaker game, using C# and the Unity game development engine. 
 
 * 🗞 Used Java and the Android Studio SDK to make the Good News Mix app, an app that gives you a break from bad news by only showing you news stories with a positive undertone 
 
@@ -19,7 +19,7 @@ This full time intensive bootcamp included cloning Airbnb and developing an MVP 
 
 **Udacity: Google Android Basics Nanodegree Programmes** 
 
-Learned how to create user interfaces (XML), user input, single-screen and multi-screen apps, networking using JSON and APIs, and generally how to use the Android SDK and structure code within it. 
+Learned how to create user interfaces, ask for user input, make single-screen and multi-screen apps, network using JSON and APIs, and generally how to use the Android SDK and structure code within it. 
 
 **GameDev.TV: Complete C# Unity Game Developer course**
 
