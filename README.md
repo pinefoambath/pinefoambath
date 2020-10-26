@@ -1,4 +1,4 @@
-### Hi, I’m Andrea 🤓
+### Hi, I’m Andrea 🙂
 
 I’m a self-taught developer with a background in psychology. I enjoy learning programming languages and frameworks and have:
 
