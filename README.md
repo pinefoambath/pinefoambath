@@ -7,7 +7,7 @@ I’m a self-taught developer with a background in psychology. I enjoy learning 
 
 * 🚀  Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro block breaker game, using C# and the Unity game development engine. 
 
-* 🗞 Used Java and the Android Studio SDK to make the Good News Mix app, an app that gives you a break from bad news by only showing you news stories with a positive undertone 
+* 🗞 Used Java and the Android Studio SDK to make the Good News Mix app, an app that gives you a break from bad news 
 
 I’m based in Zurich, Switzerland ⛰ 🍫 and currently (remote) teach at the Le Wagon Bootcamp 🙇‍♀️ 
 
