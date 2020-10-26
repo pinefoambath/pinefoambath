@@ -23,5 +23,5 @@ Learned how to create user interfaces (XML), user input, single-screen and multi
 
 **GameDev.TV: Complete C# Unity Game Developer course**
 
-Learned C# as well as how to use the Unity game engine and generally built a solid foundation for game design and game development workflows and tech.  
+Learned C# as well as how to use the Unity game engine. Built a solid foundation for game design and game development workflows and tech.  
 
