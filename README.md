@@ -1,4 +1,4 @@
-Hi, I’m Andrea!
+### Hi, I’m Andrea 👋!
 
 I’m a self-taught developer with a background in psychology. Since 2019 I have taken an interest in learning programming languages and frameworks and have:
 👩🏽‍💻 Created several full stack Ruby on Rails web apps, such as Track My Cruise a retrospective marine weather API service and Boat BnB, an AirBnB-style boat rental prototype
