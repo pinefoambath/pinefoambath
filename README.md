@@ -9,7 +9,7 @@ I’m a self-taught developer with a background in psychology. I enjoy learning 
 
 * 🗞 Used Java and the Android Studio SDK to make the Good News Mix app, an app that gives you a break from bad news 
 
-I’m based in Zurich, Switzerland ⛰ 🍫 and currently (remote) teach at the Le Wagon Bootcamp 🙇‍♀️ 
+I live in Zurich, Switzerland ⛰ 🍫 and currently (remote) teach at the Le Wagon Bootcamp 🙇‍♀️ 
 
 **EDUCATION**
 
