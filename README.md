@@ -3,7 +3,7 @@
 I’m a self-taught developer with a background in psychology. Since 2019 I have taken an interest in learning programming languages and frameworks and have:
 
 
-👩🏽‍💻 Created several full stack Ruby on Rails web apps, such as Track My Cruise a retrospective marine weather API service and Boat BnB, an AirBnB-style boat rental prototype
+👩🏽‍💻 Created several full stack Ruby on Rails web apps, such as [Track My Cruise](http://www.trackmycruise.com) a retrospective marine weather API service and Boat BnB, an AirBnB-style boat rental prototype
 
 🚀 Made games using C# and the Unity platform, including Space Pong, a retro block breaker game 
 
@@ -15,7 +15,7 @@ I’m based in Zurich, Switzerland.
 
 **Le Wagon: Full Stack Web Development Bootcamp, London**
 
-This full time intensive bootcamp included cloning Airbnb and developing an MVP within a team. The course also developed my front-end knowledge, while gaining holistic awareness on full stack development. Skills learnt include: Ruby on Rails, HTML5, CSS/Sass, API, JavaScript, Bootstrap, SQL, PostgreSQL, AJAX, git, Heroku, pair programming, collaborating with others on GitHub.
+This full time intensive bootcamp included cloning Airbnb and developing an MVP within a team. Skills learnt include: Ruby on Rails, HTML5, CSS/Sass, API, JavaScript, APIs, Bootstrap, SQL, PostgreSQL, AJAX, git, Heroku, pair programming, collaborating with others on GitHub.
 
 **Udacity: Google Android Basics Nanodegree Programmes** 
 
