@@ -5,7 +5,7 @@ I enjoy learning programming languages and frameworks and have:
 
 * 👩🏽‍💻 Created several full stack Ruby on Rails web apps, such as [Track My Cruise](http://www.trackmycruise.com) a retrospective marine weather API service for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype
 
-* 🚀  Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro block breaker game, using C# and the Unity game development engine. 
+* 🚀  Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro block breaker game, using C# and the Unity game development engine.
 
 * 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Hosted on the Play store.
 
