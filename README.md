@@ -7,7 +7,7 @@ I enjoy learning programming languages and frameworks and have:
 
 * 🚀  Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro block breaker game, using C# and the Unity game development engine. 
 
-* 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), a mobile app that gives you a break from bad news 
+* 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Hosted on the Play store.
 
 * 🍃 Made a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Jave Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to learn the Spring framework (in progress). 
 
