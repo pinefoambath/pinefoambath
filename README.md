@@ -13,7 +13,7 @@ I enjoy learning programming languages and frameworks and have:
 
 I live in Zurich, Switzerland ⛰ 🍫 and currently (remote) teach at the Le Wagon Bootcamp 🙇‍♀️ 
 
-**EDUCATION**
+**👩‍🏫 EDUCATION**
 
 **Le Wagon: Full Stack Web Development Bootcamp, London**
 
