@@ -9,7 +9,7 @@ I enjoy learning programming languages and frameworks and have:
 
 * 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Available on the Google Play store.
 
-* 🍃 Made a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to learn the Spring framework (in progress). 
+* 🍃 Started to build a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to learn the Spring Boot framework (in progress). 
 
 I live in Zurich, Switzerland ⛰ 🍫 and currently (remote) teach at the Le Wagon Bootcamp 🙇‍♀️ 
 
