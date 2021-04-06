@@ -11,7 +11,7 @@ I enjoy learning programming languages and frameworks and have:
 
 * 🍃 Started to build a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to learn the Spring Boot framework (in progress). 
 
-I live in Zurich, Switzerland ⛰ 🍫. I work at Simplificator and (remote) teach at the Le Wagon Bootcamp 🙇‍♀️ 
+I live in Zurich, Switzerland ⛰ 🍫. I work at Simplificator and (remote) teach at the Le Wagon Bootcamp 🙇‍♀️ I publish content at https://medium.com/@_andrea  
 
 **👩‍🏫   Education**
 
