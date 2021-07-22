@@ -1,6 +1,6 @@
 ### Hi, I’m Andrea 🙂
 
-I live in Zurich ⛰ 🍫. work at [Simplificator](https://www.simplificator.com), TA at [Le Wagon](https://www.lewagon.com) 🙇‍♀️ and publish content on [Medium](https://medium.com/@_andrea). I enjoy learning programming languages and frameworks and have:
+I live in Zurich ⛰ 🍫. work at [Simplificator](https://www.simplificator.com), TA at [Le Wagon](https://www.lewagon.com) 🙇‍♀️ and publish content on [Medium](https://medium.com/@_andrea). I enjoy learning programming languages and frameworks using React, Javascript, TypeScript, Ruby on Rails, Gatsby, GraphQL, Tailwind, HTML and CSS.
 
 * 👩🏽‍💻 Created several full stack Ruby on Rails web apps, such as [Track My Cruise](http://www.trackmycruise.com) a retrospective marine weather API service for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype
 
@@ -8,7 +8,7 @@ I live in Zurich ⛰ 🍫. work at [Simplificator](https://www.simplificator.com
 
 * 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Available on the Google Play store.
 
-* 🍃 Started to build a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to learn the Spring Boot framework (in progress). 
+* 🍃 Built a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to learn the Spring Boot framework (in progress). 
 
 
 **👩‍🏫   Education**
