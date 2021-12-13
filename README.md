@@ -25,7 +25,5 @@ Learned how to create user interfaces, ask for user input, make single-screen an
 
 **GameDev.TV: Complete C# Unity Game Developer course**
 
-Learned C# as well as how to use the Unity game engine. Built a solid foundation for game design and game development workflows and tech.  
-
-https://github-readme-stats.vercel.app/api?username=pinefoambath&theme=dark&show_icons=tru
+Learned C# as well as how to use the Unity game engine. Built a foundation for game design and game development workflows and technologies.  
 
