@@ -21,7 +21,7 @@ This full time intensive bootcamp included cloning Airbnb and developing an MVP 
 
 **Udacity: Google Android Basics Nanodegree Programmes** 
 
-Learned how to create user interfaces, ask for user input, make single-screen and multi-screen apps, network using JSON and APIs, and generally how to use the Android SDK and structure code within it. Also, learned Java!
+Learned how to create user interfaces, ask for user input, make single-screen and multi-screen apps, network using APIs, and generally how to use the Android SDK. Learned Java.
 
 **GameDev.TV: Complete C# Unity Game Developer course**
 
