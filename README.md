@@ -27,6 +27,6 @@ Learned how to create user interfaces, ask for user input, make single-screen an
 
 Learned C# as well as how to use the Unity game engine. Built a solid foundation for game design and game development workflows and tech.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinefoambath&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinefoambath&theme=default)
 
 
