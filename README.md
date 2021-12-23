@@ -2,7 +2,7 @@
 
 I live in Zurich ⛰ 🍫. work at [Simplificator](https://www.simplificator.com), TA at [Le Wagon](https://www.lewagon.com) 🙇‍♀️ and write on [Medium](https://medium.com/@_andrea). I enjoy learning programming languages and frameworks. I've worked on projects using React, Javascript, TypeScript, Ruby on Rails (including Stimulus, View Components, MapBox), Gatsby, Java, Android SDK, GraphQL, Tailwind, Netlify and Sanity. 
 
-Example projects:
+Personal projects:
 
 * 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Available on the Google Play store.
 
@@ -11,19 +11,3 @@ Example projects:
 * 🚀  Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro block breaker game, using C# and the Unity game development engine.
 
 * 🍃 Built a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to learn the Spring Boot framework (in progress). 
-
-
-**👩‍🏫   Education**
-
-**Le Wagon: Full Stack Web Development Bootcamp, London**
-
-This full time intensive bootcamp included cloning Airbnb and developing an MVP within a team. Skills learnt include: Ruby on Rails, HTML5, CSS/Sass, API, JavaScript, APIs, Bootstrap, SQL, PostgreSQL, AJAX, git, Heroku, pair programming, collaborating with others on GitHub.
-
-**Udacity: Google Android Basics Nanodegree Programmes** 
-
-Learned how to create user interfaces, ask for user input, make single-screen and multi-screen apps, network using APIs, and generally how to use the Android SDK. Learned Java.
-
-**GameDev.TV: Complete C# Unity Game Developer course**
-
-Learned C# as well as how to use the Unity game engine. Built a foundation for game design and game development workflows and technologies.  
-
