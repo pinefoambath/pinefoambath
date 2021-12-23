@@ -1,4 +1,4 @@
-### Hi, I’m Andrea 🙂
+### Hi, I’m Andrea 👋
 
 I live in Zurich ⛰ 🍫, work at [Simplificator](https://www.simplificator.com), TA at [Le Wagon](https://www.lewagon.com) 🙇‍♀️ and write on [Medium](https://medium.com/@_andrea). I enjoy learning differente programming languages and frameworks. I've worked on projects using React, Javascript, TypeScript, Ruby on Rails (including Stimulus, View Components, MapBox), Gatsby, Java, Android SDK, GraphQL, Tailwind, Netlify and Sanity. 
 
