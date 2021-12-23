@@ -4,7 +4,7 @@ I live in Zurich ⛰ 🍫, work at [Simplificator](https://www.simplificator.com
 
 Some side projects:
 
-* 🛰 Made a [Mars Rover app](https://github.com/pinefoambath/mars-rover-express-app) with Express and Node.js, to track the latest images sent back from Nasa's Mars rovers
+* 🛰 Made a [Mars Rover app](https://github.com/pinefoambath/mars-rover-express-app) with Express and Node.js, to track the latest images sent back from Nasa's Mars rovers.
 
 * 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Available on the Google Play store.
 
