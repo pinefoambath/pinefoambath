@@ -2,11 +2,11 @@
 
 I live in Zurich ⛰ 🍫, work at [Simplificator](https://www.simplificator.com), TA at [Le Wagon](https://www.lewagon.com) 🙇‍♀️ and write on [Medium](https://medium.com/@_andrea). I enjoy learning differente programming languages and frameworks. I've worked on web and Android projects, using React, Javascript, TypeScript, Ruby on Rails (including Stimulus, View Components, MapBox), Gatsby, Java, Android SDK, GraphQL, Tailwind, Netlify and Sanity. 
 
-Some side projects:
-
-* 🛰 Made a [Mars Rover app](https://github.com/pinefoambath/mars-rover-express-app) with Express and Node.js, to track the latest images sent back from Nasa's Mars rovers.
+Personal projects:
 
 * 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Available on the Google Play store.
+
+* 🛰 Made a [Mars Rover app](https://github.com/pinefoambath/mars-rover-express-app) with Express and Node.js, to track the latest images sent back from Nasa's Mars rovers.
 
 * 🚀  Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro block breaker game, using C# and the Unity game development engine.
 
