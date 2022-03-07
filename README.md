@@ -14,4 +14,4 @@ Some personal projects:
 
 * ⛵ Created several full stack Ruby on Rails web apps, such as [Track My Cruise](http://www.trackmycruise.com) a retrospective marine weather API service for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinefoambath)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinefoambath&hide=ruby,html)](https://github.com/anuraghazra/github-readme-stats)
