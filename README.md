@@ -1,6 +1,6 @@
 ### Hi, I’m Andrea 👋
 
-I live in Zurich ⛰, am a Software Engineer at [Simplificator](https://www.simplificator.com), TA at [Le Wagon](https://www.lewagon.com) 🙇‍♀️ and write on [Medium](https://medium.com/@_andrea). I'm making web based and Android software, using React, Javascript, TypeScript, Ruby on Rails (including Stimulus, View Components, MapBox), Gatsby, Java, Android SDK, GraphQL, Tailwind, Netlify and Sanity. 
+I'm a Software Engineer at [Simplificator](https://www.simplificator.com) in Zurich, TA at [Le Wagon](https://www.lewagon.com) 🙇‍♀️ and write on [Medium](https://medium.com/@_andrea). I'm making web based and Android software, using React, Javascript, TypeScript, Ruby on Rails (including Stimulus, View Components, MapBox), Gatsby, Java, Android SDK, GraphQL, Tailwind, Netlify and Sanity. 
 
 Some personal projects:
 
