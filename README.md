@@ -2,7 +2,7 @@
 
 I'm a Software Engineer at [Simplificator](https://www.simplificator.com) in Zurich, TA at [Le Wagon](https://www.lewagon.com) 🙇‍♀️ and write on [Medium](https://medium.com/@_andrea). I'm making web based software and Android apps, working across front- and backend. I'm using React, Javascript, TypeScript, Ruby on Rails (including Stimulus, View Components, MapBox), Elixir, Phoenix, Gatsby, Java, Android SDK, GraphQL, Tailwind, and headless CSM systems like Netlify and Sanity. To see my work profile and portfolio [head here](https://www.simplificator.com/team/andrea). Alongside my work I'm studying for a [Master in Advanced Studies in Software Engineering](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/informatik/mas-software-engineering) at FH Ost in Rapperswil, Switzerland. 
 
-When I'm not working or studying there is ~~ sometimes ~~ time for personal projects: 
+When I'm not working or studying there is ~~ sometimes 🙃 ~~ time for personal projects: 
 
 * 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Available on the Google Play store.
 
