@@ -4,7 +4,7 @@ I'm a Software Engineer at [Simplificator](https://www.simplificator.com) in Zur
 
 When I'm not working or studying there is ~~ sometimes 🙃 ~~ time for personal projects: 
 
-* 🗞 Used Java and the Android Studio SDK to make the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Available on the Google Play store.
+* 🗞 I've made and am hosting the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Made with Java in the Android SDK, app available on the Google Play store.
 
 * 🛰 Made [Mars Rover app](https://github.com/pinefoambath/mars-rover-express-app) with Express and Node.js, to track the latest images sent back from Nasa's Mars rovers.
 
