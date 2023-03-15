@@ -4,7 +4,7 @@ I'm a Software Engineer in Zurich, Switzerland. I'm making web-based software an
 
 When I'm not working or studying there is ~~ sometimes 🙃 ~~ time for personal projects: 
 
-* 🗞 I've made and am hosting the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Made with Java in the Android SDK, available on the Google Play store.
+* 🗞 I've made and am hosting the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Made with Java in Android SDK, available on the Google Play store.
 
 * 🛰 Made [Mars Rover app](https://github.com/pinefoambath/mars-rover-express-app) with Express and Node.js, to track the latest images sent back from Nasa's Mars rovers.
 
@@ -12,6 +12,6 @@ When I'm not working or studying there is ~~ sometimes 🙃 ~~ time for personal
 
 * 🍃 Built a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to get familiar with the Spring Boot framework. 
 
-* ⛵ Created several full stack Ruby on Rails apps, such as [Track My Cruise](http://www.trackmycruise.com) a retrospective marine weather API service for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype
+* ⛵ Created several full stack Rails apps, such as [Track My Cruise](http://www.trackmycruise.com) a retrospective marine weather API service for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype
 
 * 💼 I develop, host and run [Career Haus](http://www.career.haus). Career Haus helps individuals make job transitions, and enables educational institutions deliver student career development at scale.
