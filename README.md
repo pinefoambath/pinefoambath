@@ -1,6 +1,6 @@
 ### Hi, I’m Andrea 👋
 
-I'm a Software Engineer in Zurich, Switzerland. I'm making web-based software and Android apps, working across front- and backend. I'm using React, Javascript, TypeScript, Ruby on Rails, Kafka, Elixir, Phoenix, Gatsby, Java, Android SDK, GraphQL, Tailwind, and headless CSM systems like Netlify and Sanity. Alongside work I'm studying for a [Master in Advanced Studies in Software Engineering](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/informatik/mas-software-engineering) at FH Ost in Rapperswil, Switzerland. I occasionally [blog here](https://medium.com/@_andrea). I'm bilingual German/English, 
+I'm a Software Engineer in Zurich, Switzerland. I'm making web-based software and Android apps, working across front- and backend. I'm using React, Javascript, TypeScript, Ruby on Rails, Kafka, Elixir, Phoenix, Gatsby, Java, Android SDK, GraphQL, Tailwind, and headless CSM systems like Netlify and Sanity. Alongside work I'm studying for a [Master in Advanced Studies in Software Engineering](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/informatik/mas-software-engineering) at FH Ost in Rapperswil, Switzerland. I occasionally [blog here](https://medium.com/@_andrea). I'm bilingual German/English.
 
 When I'm not working or studying there is ~~ sometimes 🙃 ~~ time for personal projects: 
 
@@ -14,4 +14,4 @@ When I'm not working or studying there is ~~ sometimes 🙃 ~~ time for personal
 
 * ⛵ Created several full stack Ruby on Rails apps, such as [Track My Cruise](http://www.trackmycruise.com) a retrospective marine weather API service for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype
 
-* 💼 I develop, host and run [Career Haus](http://www.career.haus)
+* 💼 I develop, host and run [Career Haus](http://www.career.haus). Career Haus helps individuals make job transitions, and enables educational institutions support student career development at scale.
