@@ -14,4 +14,4 @@ When I'm not working or studying there is ~~ sometimes 🙃 ~~ time for personal
 
 * ⛵ Made [Track My Cruise](http://www.trackmycruise.com), a Ruby on Rails app providing a retrospective weather information for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype.
 
-* 💼 I develop, host and run [Career Haus](http://www.career.haus). Career Haus helps individuals make job transitions, and enables educational institutions deliver student career development at scale.
+* 💼 I develop, host and run [Career Haus](http://www.career.haus). Career Haus helps people make job transitions, and enables educational institutions provide student career development at scale.
