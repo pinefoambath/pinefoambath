@@ -12,6 +12,6 @@ When I'm not working or studying there is ~~ sometimes 🙃 ~~ time for personal
 
 * 🍃 Built a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to get familiar with the Spring Boot framework. 
 
-* ⛵ Made [Track My Cruise](https://github.com/pinefoambath/trackmycruise)), a Ruby on Rails app providing a retrospective weather information for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype.
+* ⛵ Made [Track My Cruise](https://github.com/pinefoambath/trackmycruise), a Ruby on Rails app providing a retrospective weather information for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype.
 
 * 💼 I develop, host and run [Career Haus](http://www.career.haus). Career Haus helps people make job transitions, and enables educational institutions provide student career development at scale.
