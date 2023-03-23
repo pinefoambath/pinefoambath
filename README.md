@@ -1,6 +1,6 @@
 ### Hi, I’m Andrea 👋
 
-I'm a Software Engineer in Zurich, Switzerland. I'm making web-based software and Android apps, working across front- and backend. I'm working with React, Javascript, TypeScript, Ruby on Rails, Kafka, Elixir, Phoenix, Gatsby, Java, Android SDK, GraphQL, Tailwind, and headless CSM systems like Netlify and Sanity. Alongside work I'm studying for a [Master in Advanced Studies in Software Engineering](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/informatik/mas-software-engineering) at FH Ost in Rapperswil, Switzerland. I occasionally [blog here](https://medium.com/@_andrea). I'm bilingual German/English.
+I'm a Software Engineer in Zurich, Switzerland. I'm making web-based software and Android apps, working across front- and backend. I'm working with React, Javascript, TypeScript, Ruby on Rails, Kafka, Elixir, Phoenix, Gatsby, Java, Android SDK, GraphQL, Tailwind, and headless CSM systems like Netlify and Sanity. Alongside work I'm studying for a [Master in Advanced Studies in Software Engineering](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/informatik/mas-software-engineering) at Fachhochschule Ost in Rapperswil, Switzerland. I occasionally [blog here](https://medium.com/@_andrea). I'm bilingual German/English.
 
 When I'm not working or studying there's ~~ sometimes 🙃 ~~ time for personal projects: 
 
