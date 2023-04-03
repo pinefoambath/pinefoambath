@@ -10,7 +10,7 @@ When I'm not working or studying there's ~ sometimes 🙃 ~ time for personal pr
 
 * 🚀 Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro game, using C# and Unity.
 
-* 🍃 Built a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to get familiar with the Spring Boot framework. 
+* 🍃 Built a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to get familiar with Spring Boot. 
 
 * ⛵ Made [Track My Cruise](https://github.com/pinefoambath/trackmycruise), a Ruby on Rails app providing a retrospective weather information for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype.
 
