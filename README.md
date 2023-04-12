@@ -4,7 +4,7 @@ I'm a software engineer in Zurich. I'm making web-based software and Android app
 
 When I'm not working or studying there's ~ sometimes 🙃 ~ time for personal projects: 
 
-* 🗞 I've made and am hosting the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Made with Java in Android SDK, available on the Google Play store.
+* 🗞 I've made and am hosting the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Made with Java in Android SDK, available free on the Google Play store.
 
 * 🛰 Made [Mars Rover app](https://github.com/pinefoambath/mars-rover-express-app) with Express and Node.js, to track the latest images sent back from Nasa's Mars rovers.
 
