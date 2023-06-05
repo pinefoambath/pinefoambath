@@ -1,6 +1,6 @@
 ### Hi, I’m Andrea 👋
 
-I'm a Zurich-based software engineer. I work across front- and backend, and across the DevOps cycle. In my day to day work I use React, Javascript, TypeScript, Ruby on Rails, Kafka, Camunda, Elixir, Phoenix, Java, Android SDK, GraphQL, Tailwind, and headless CSM like Netlify and Sanity. Alongside work I'm studying for a [Master in Advanced Studies in Software Engineering](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/informatik/mas-software-engineering). I speak German and English.
+I'm a Zurich-based software engineer. I work across front- and backend, and across the DevOps cycle. I use React, Javascript, TypeScript, Ruby on Rails, Kafka, Camunda, Elixir, Phoenix, Java, Android SDK, GraphQL, Tailwind, and headless CSM like Netlify and Sanity. Alongside work I'm studying for a [Master in Advanced Studies in Software Engineering](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/informatik/mas-software-engineering). I speak German and English.
 
 When I'm not working or studying there's ~ sometimes 🙃 ~ time for personal projects: 
 
