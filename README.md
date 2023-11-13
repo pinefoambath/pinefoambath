@@ -1,6 +1,6 @@
 ### Hi, I’m Andrea 👋
 
-I'm a software developer in Zurich, Switzerland. I work across front- and backend, across the DevOps cycle. I use React, Javascript, TypeScript, Java, Ruby on Rails, Kafka, Camunda, Elixir, Phoenix, Java, Android SDK, GraphQL, Tailwind, and headless CSM like Netlify and Sanity. I can also go near a .NET/C# app if I have to. I speak German and English.
+I'm a software developer in Zurich, Switzerland. I work across front- and backend, across the DevOps cycle. In my work I use a wide range of programming languages and frameworks, including React, Javascript, TypeScript, Java, Ruby on Rails, Kafka, Camunda, Elixir, Phoenix, Java, Android SDK, GraphQL, Tailwind, and headless CSM, as well as Docker and Kubernetes. I speak German and English.
 
 When I'm not working or studying there's ~ sometimes 🙃 ~ time for personal projects: 
 
