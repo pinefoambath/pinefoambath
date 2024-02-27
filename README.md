@@ -8,7 +8,7 @@ Frameworks & Tools: Ruby on Rails, Kafka, Camunda, Phoenix, Android SDK, GraphQL
 
 DevOps: Docker, Kubernetes, ArgoCI/CD
 
-Human languages 🌍: German and English
+Human languages 🌍: German, English
 
 When I'm not working or studying there's ~ sometimes 🙃 ~ time for personal projects: 
 
