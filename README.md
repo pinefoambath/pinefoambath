@@ -2,13 +2,7 @@
 
 I'm a software developer in Zurich, Switzerland. I work across front- and backend, across the DevOps cycle. In my work I use a wide range of programming languages and frameworks.
 
-Programming Languages: React, Javascript, TypeScript, Java, Ruby, Elixir
-
-Frameworks & Tools: Ruby on Rails, Kafka, Camunda, Phoenix, Android SDK, GraphQL, Tailwind, headless CSM
-
-DevOps: Docker, Kubernetes, ArgoCI/CD
-
-Human languages 🌍: German, English
+🟢 Programming Languages: React, Javascript, TypeScript, Java, Ruby, C#; 🟢 Frameworks & Tools: Ruby on Rails, Kafka, Camunda, Android SDK, SpringBoot, GraphQL, Tailwind; 🟢 DevOps: Docker, Kubernetes, ArgoCI/CD; 🟢 Human languages: German, English
 
 When I'm not working or studying there's ~ sometimes 🙃 ~ time for personal projects: 
 
