@@ -4,7 +4,7 @@ I'm a software developer in Zurich, Switzerland. I work fullstack, across the De
 
 **Programming Languages**: React, Javascript, TypeScript, Java, Ruby, C#; **Frameworks & Tools**: Ruby on Rails, Kafka, Camunda, Android SDK, SpringBoot, GraphQL, Tailwind; **DevOps**: Docker, Kubernetes, ArgoCI/CD; **Human languages**: German, English
 
-When I'm not working or studying there's ~ sometimes 🙃 ~ time for personal projects: 
+When I'm not working there's ~ sometimes 🙃 ~ time for personal projects: 
 
 * 🗞 I've made and am hosting the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Made with Java in Android SDK, available on the Google Play store.
 
