@@ -10,7 +10,7 @@ When I'm not working there's ~ sometimes 🙃 ~ time for personal projects:
 
 * 🛰 Made [Mars Rover app](https://github.com/pinefoambath/mars-rover-express-app) with Express and Node.js, to track the latest images sent back from Nasa's Mars rovers.
 
-* 🚀 Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro game, using C# and Unity.
+* 🚀 Made [Space Pong](https://rollmopsgames.itch.io/spacepong), a retro game, with C# and Unity.
 
 * 🍃 Built a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to get familiar with Spring Boot. 
 
