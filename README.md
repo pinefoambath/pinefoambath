@@ -6,6 +6,8 @@ I'm a software developer in Zurich, Switzerland. I work fullstack, across the De
 
 There's ~ sometimes 🙃 ~ time for personal projects: 
 
+* ⛵️ CURRENT PROJECT 📍: TripTracker, think of it as Strava for sailing. Tech Stack: Native Android JDK with Java, .NET backend, React. 
+
 * 🗞 I've made and am hosting the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Made with Java in Android SDK, available on the Google Play store.
 
 * 🛰 Made [Mars Rover app](https://github.com/pinefoambath/mars-rover-express-app) with Express and Node.js, to track the latest images sent back from Nasa's Mars rovers.
