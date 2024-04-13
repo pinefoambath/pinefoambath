@@ -6,7 +6,7 @@ I'm a software developer in Zurich, Switzerland. I work fullstack, across the De
 
 There's ~ sometimes 🙃 ~ time for personal projects: 
 
-* ⛵️ CURRENT PROJECT 📍: TripTracker, think of it as Strava for sailing. Tech stack: Native Android App with Java, with a .NET/C# backend hosted on Azure, and a React web-frontend. 
+* ⛵️ CURRENT PROJECT 📍: TripTracker, think of it as Strava for sailing. Tech stack: Native Android App in Java, with a .NET/C# backend hosted on Azure, and a React web-frontend. 
 
 * 🗞 I've made and am hosting the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Made with Java in Android SDK, available on the Google Play store.
 
