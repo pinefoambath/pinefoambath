@@ -6,7 +6,7 @@ I'm a software engineer in Zurich, Switzerland. I work fullstack, across the Dev
 
 There's ~ sometimes 🙃 ~ time for personal projects: 
 
-* ⛵️ CURRENT PROJECT 📍: TripTracker, think of it as Strava for sailing. Tech stack: Native Android App in Java, with a .NET/C# backend hosted on Azure, and a React web-frontend. This is my Master Thesis project for my MAS Software Engineerung degree.
+* ⛵️ CURRENT PROJECT 📍: TripTracker, think of it as Strava for sailing. Tech stack: Native Android App in Java, with a .NET/C# backend hosted on Azure, and a React web-frontend. This is my Master Thesis project for my MAS Software Engineerung degree
 
 * 🗞 I've made and am hosting the [Good News Mix](https://play.google.com/store/apps/details?id=com.rollmopsgames.guardianapp2020), an Android app that gives you a break from bad news. Made with Java in Android SDK, available on the Google Play store.
 
@@ -18,4 +18,4 @@ There's ~ sometimes 🙃 ~ time for personal projects:
 
 * ⛵ Made [Track My Cruise](https://github.com/pinefoambath/trackmycruise), an app that provides retrospective weather information for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype.
 
-* 👩‍🎓 Developing, hosting and running [Career Haus](http://www.career.haus)
+* 👩‍🎓 Developing, hosting and running [Career Haus](http://www.career.haus) 
