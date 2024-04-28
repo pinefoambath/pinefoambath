@@ -1,6 +1,6 @@
 ### Hi, I’m Andrea 👋
 
-I'm a software engineer in Zurich, Switzerland. I work fullstack, across the DevOps cycle. I use a range of programming languages and frameworks:
+I'm a software engineer in Zurich, Switzerland. I work fullstack, across the DevOps cycle. I use a range of programming languages and frameworks.
 
 **Programming Languages**: React, Javascript, TypeScript, Java, Ruby, C#; **Frameworks & Tools**: Ruby on Rails, Kafka, Camunda, Android SDK, SpringBoot, GraphQL, Tailwind; **DevOps**: Docker, Kubernetes, ArgoCI/CD; **Human languages**: German, English
 
