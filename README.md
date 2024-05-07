@@ -17,5 +17,3 @@ There's ~ sometimes 🙃 ~ time for personal projects:
 * 🍃 Built a [Java Spring Boot chat app](https://github.com/pinefoambath/demo) as well as a [Java Spring Boot cloud storage](https://github.com/pinefoambath/cloudstorage) application, to get familiar with Spring Boot. 
 
 * ⛵ Made [Track My Cruise](https://github.com/pinefoambath/trackmycruise), an app that provides retrospective weather information for sailors, and [Boat BnB](https://airbnb-pinefoambath.herokuapp.com), an AirBnB-style boat rental prototype.
-
-* 👩‍🎓 Developing, hosting and running [Career Haus](http://www.career.haus) 
