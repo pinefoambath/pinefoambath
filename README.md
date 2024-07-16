@@ -4,7 +4,7 @@ I'm a software engineer in Zurich, Switzerland. I work fullstack, across the Dev
 
 **Programming Languages**: React, Javascript, TypeScript, Java, Ruby, C#; **Frameworks & Tools**: Ruby on Rails, Kafka, Camunda, Android SDK, SpringBoot, GraphQL, Tailwind; **DevOps**: Docker, Kubernetes, ArgoCI/CD; **Human languages**: German, English
 
-There's ~ sometimes 🙃 ~ time for personal projects: 
+Personal projects: 
 
 * ⛵️ CURRENT PROJECT 📍: TripTracker. Think of it as Strava for sailing. Tech stack: Native Android App in Java, with a .NET/C# backend hosted on Azure, and a React web-frontend. This is my master thesis project for my MAS Software Engineerung degree.
 
