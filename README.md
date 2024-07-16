@@ -1,10 +1,10 @@
 ### Hi, I’m Andrea 👋
 
-I'm a software engineer in Zurich, Switzerland. I work fullstack, across the DevOps cycle.
+I'm a software engineer in Zurich, Switzerland. I work fullstack, across frontend and backend and across the DevOps cycle.
 
 **Programming Languages**: React, Javascript, TypeScript, Java, Ruby, C#; **Frameworks & Tools**: Ruby on Rails, Kafka, Camunda, Android SDK, SpringBoot, GraphQL, Tailwind; **DevOps**: Docker, Kubernetes, ArgoCI/CD; **Human languages**: German, English
 
-Personal projects: 
+Some personal projects: 
 
 * ⛵️ CURRENT PROJECT 📍: TripTracker. Think of it as Strava for sailing. Tech stack: Native Android App in Java, with a .NET/C# backend hosted on Azure, and a React web-frontend. This is my master thesis project for my MAS Software Engineerung degree.
 
