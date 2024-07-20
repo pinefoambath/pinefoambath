@@ -1,6 +1,6 @@
 ### Hi, I’m Andrea 👋
 
-I'm a software engineer in Zurich, Switzerland. I work fullstack, across frontend and backend and across the DevOps cycle.
+I'm a software engineer in Zurich. I work fullstack, across frontend and backend and across the DevOps cycle.
 
 **Programming Languages**: React, Javascript, TypeScript, Java, Ruby, C#; 
 
