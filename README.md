@@ -2,9 +2,9 @@
 
 I'm a software engineer in Zurich. I work fullstack, across frontend and backend and across the DevOps cycle.
 
-**Programming Languages**: React, Javascript, TypeScript, Java, Ruby, C#; 
+**Programming Languages**:  Ruby, Java, Javascript, TypeScript, C#, C++
 
-**Frameworks & Tools**: Ruby on Rails, Kafka, Camunda, Android SDK, SpringBoot, GraphQL, Tailwind; 
+**Frameworks & Tools**: React, Ruby on Rails, Kafka, Camunda, Android SDK, SpringBoot, GraphQL, Tailwind; 
 
 **DevOps**: Docker, Kubernetes, ArgoCI/CD; 
 
